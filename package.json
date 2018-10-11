@@ -1,0 +1,23 @@
+{
+  "name": "update-ip-cloudflare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-cloudflare-ip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckalexee/update-cloudflare-ip.git"
+  },
+  "author": "Alex McKenzie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mckalexee/update-cloudflare-ip/issues"
+  },
+  "homepage": "https://github.com/mckalexee/update-cloudflare-ip#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.2.0"
+  }
+}
